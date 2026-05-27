@@ -24,7 +24,7 @@ This dashboard provides actionable insights into:
 
 ### 1️⃣ Executive Overview Dashboard
 
-####Key Features:
+#### Key Features:
 
 Revenue vs Target Analysis
 Profit Percentage Monitoring
@@ -36,9 +36,12 @@ Revenue by Business Unit
 Monthly Shipment Status
 Business Value
 
+<img width="914" height="504" alt="image" src="https://github.com/user-attachments/assets/cec5d685-7508-46f3-98b0-05f0e2647720" />
+
+
 Provides leadership teams with a high-level overview of operational and financial health.
 
-2️⃣ Operations Dashboard
+### 2️⃣ Operations Dashboard
 Key Features
 Total Shipments
 Cargo Volume Analysis
@@ -52,7 +55,7 @@ Business Value
 
 Helps operations teams identify bottlenecks and improve shipment efficiency.
 
-3️⃣ Financial Dashboard
+### 3️⃣ Financial Dashboard
 Key Features
 Revenue & Gross Profit
 Vendor Cost Analysis
@@ -65,7 +68,7 @@ Business Value
 
 Enables finance teams to monitor profitability and cost optimization opportunities.
 
-4️⃣ Geography Dashboard
+### 4️⃣ Geography Dashboard
 Key Features
 Geographic Revenue Analysis
 Top Shipping Corridors
@@ -77,8 +80,8 @@ Business Value
 
 Supports strategic decisions related to international trade routes and regional operations.
 
-5️⃣ Forecast Dashboard
-Key Features
+### 5️⃣ Forecast Dashboard
+#### Key Features:
 Revenue Forecasting
 Cost Forecasting
 Shipment Forecasting
@@ -88,7 +91,7 @@ Business Value
 
 Helps leadership anticipate future business performance and plan resources effectively.
 
-📈 KPIs Included
+## 📈 KPIs Included
 Revenue
 Gross Profit
 Profit %
@@ -101,7 +104,9 @@ On-Time Delivery Rate
 Shipment Forecast
 Vendor Efficiency
 Target Achievement %
-🧠 DAX Concepts Used
+
+## 🧠 DAX Concepts Used
+
 CALCULATE()
 FILTER()
 ALL()
@@ -111,9 +116,8 @@ Time Intelligence Functions
 Forecasting Measures
 Dynamic KPI Calculations
 Conditional Formatting Measures
-🔄 Data Transformation Steps
 
-Performed using Power Query:
+## 🔄 Data Transformation Steps Performed using Power Query:
 
 Data Cleaning
 Null Handling
@@ -122,7 +126,8 @@ Column Standardization
 Date Formatting
 Relationship Preparation
 Derived Column Creation
-📌 Key Insights Generated
+
+## 📌 Key Insights Generated
 Sea mode generated the highest logistics revenue.
 SLA breach percentage increased during high shipment months.
 Asia-USA trade lanes produced maximum revenue.
