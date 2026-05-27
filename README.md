@@ -96,7 +96,7 @@ Enables finance teams to monitor profitability and cost optimization opportuniti
 
 ### 4️⃣ Geography Dashboard
 
-Key Features
+#### Key Features:
 
 Geographic Revenue Analysis
 
