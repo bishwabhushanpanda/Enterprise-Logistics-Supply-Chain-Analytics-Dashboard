@@ -1,6 +1,6 @@
 # Enterprise-Logistics-Supply-Chain-Analytics-Dashboard
 
-##🎯 Business Objectives
+🎯 ##Business Objectives
 
 A complete end-to-end Power BI Logistics Analytics Project designed to analyze operational efficiency, financial performance, shipment forecasting, and geographic trade insights for a global logistics organization.
 
